@@ -8,3 +8,6 @@ A code for [Plant Seedlings Classification](https://www.kaggle.com/c/plant-seedl
     python seg.py
     python train.py
     python test.py
+
+
+More detail on my [blog](http://blog.csdn.net/yeahdediqizhang/article/details/79541040).
